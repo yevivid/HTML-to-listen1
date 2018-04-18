@@ -1,0 +1,3 @@
+在<head>之间嵌入
+            <link rel="stylesheet"(通用的库，相当于C语言的stdio.h这种头文件)        
+               href="..."(这里加入调用的css的地址，一般是相对地址)>
